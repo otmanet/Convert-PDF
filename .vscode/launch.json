@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConvertFilePdfToWordApplication<ConvertFilePdfToWord>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.ConvertFilePdfToWord.ConvertFilePdfToWordApplication",
+            "projectName": "ConvertFilePdfToWord",
+            "args": ""
+        }
+    ]
+}
